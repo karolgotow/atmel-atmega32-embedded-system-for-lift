@@ -5,4 +5,4 @@ it replaces 1:1 orignal 1003.006 and 1003.014 steering systems of licensed zremb
 # electric schema
 ![schema](https://i.ibb.co/sv5DC5VM/electrical-schema.png)
 # pcb layout plot
-![pcb](https://i.ibb.co/whdwszjh/Screenshot-2025-12-03-15-47-11.png)
+![pcb](https://github.com/karolgotow/atmel-atmega32-embedded-system-for-lift/blob/main/img/pcb.png)
